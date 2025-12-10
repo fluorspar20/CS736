@@ -9,7 +9,7 @@ import sys
 def run_experiment(fib_n, class_id):
     # 1. Start the workload in the background
     proc = subprocess.Popen(
-        ["./fib_alps", str(fib_n)], 
+        ["./fragile_task", str(fib_n)], 
         stdout=subprocess.PIPE,
         text=True
     )

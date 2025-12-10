@@ -1,0 +1,12 @@
+[Result] ID:45 Type:CPU Class:3 Time:334ms
+[Result] ID:77 Type:CPU Class:3 Time:2007ms
+[Result] ID:78 Type:CPU Class:3 Time:2062ms
+[Result] ID:86 Type:CPU Class:3 Time:2316ms
+[Result] ID:90 Type:CPU Class:3 Time:2352ms
+[Result] ID:112 Type:CPU Class:3 Time:2366ms
+[Result] ID:117 Type:CPU Class:3 Time:2348ms
+[Result] ID:148 Type:CPU Class:3 Time:2131ms
+[Result] ID:177 Type:CPU Class:3 Time:1797ms
+[Result] ID:184 Type:CPU Class:3 Time:1714ms
+[Result] ID:197 Type:CPU Class:3 Time:1512ms
+[Result] ID:5 Type:CPU Class:4 Time:6349ms
